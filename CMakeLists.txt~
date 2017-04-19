@@ -35,7 +35,6 @@ catkin_package(
 include_directories(
   ${catkin_INCLUDE_DIRS}
   include
-  #Eigen dependencies
   "/usr/include/eigen3"
 )
 
